@@ -8,7 +8,7 @@ import cv2
 import numpy as np
 import win32api
 import threading
-from eren import RZCONTROL, MOUSE_CLICK
+from rzctl import RZCONTROL, MOUSE_CLICK
 import bettercam
 import time
 
